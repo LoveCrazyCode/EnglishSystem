@@ -1,0 +1,23 @@
+NoteType	Stage	Principle	Context	Focus	Tag
+# P1 Progressive
+PrincipleCloze	Combined	Pack {{c1::versatile}}, not {{c1::many}}.	Packing principle	pair recall	Principle.Core P1 Travel.Packing Combo
+PrincipleCloze	Focus2	Pack versatile, not {{c1::many}}.	Packing principle	second element	Principle.Core P1 Travel.Packing Focus
+# (Optional) If you still want an independent card only for versatile, uncomment next line
+# PrincipleCloze	Focus1	Pack {{c1::versatile}}, not many.	Packing principle	first element	Principle.Core P1 Travel.Packing Focus
+
+# P2 (single-key, no real pair; keep simple)
+PrincipleCloze	Single	{{c1::Test}} assumptions with reality.	Culture shock reflection	verb trigger	Principle.Core P2 Travel.CultureShock
+# Optional second focus hiding reality
+# PrincipleCloze	Alt	Test assumptions with {{c1::reality}}.	Culture shock reflection	noun anchor	Principle.Core P2 Travel.CultureShock
+
+# P3 (two-word phrase but usually learned together; still offer progressive)
+PrincipleCloze	Combined	Reduce {{c1::decision}} points {{c1::upfront}}.	Process optimization	full chunk	Principle.Core P3 Meta.Process Combo
+PrincipleCloze	Focus2	Reduce decision points {{c1::upfront}}.	Process optimization	adverb placement	Principle.Core P3 Meta.Process Focus
+# Optional first-focus
+# PrincipleCloze	Focus1	Reduce {{c1::decision}} points upfront.	Process optimization	noun recall	Principle.Core P3 Meta.Process Focus
+
+# P4 (single word core)
+PrincipleCloze	Single	Leave {{c1::buffer}} space.	Planning & packing	core noun	Principle.Core P4 Travel.Packing
+
+# P5 (single adjective core)
+PrincipleCloze	Single	If it’s easily {{c1::replaceable}}, don’t carry it.	Minimalism mindset	adjective recall	Principle.Core P5 Meta.Minimal

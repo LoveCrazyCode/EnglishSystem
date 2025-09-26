@@ -1,0 +1,6 @@
+NoteType	Principle	Context	Tag
+PrincipleCloze	Pack {{c1::versatile}}, not {{c2::many}}.	Packing principle	Principle.Core P1 Travel.Packing
+PrincipleCloze	{{c1::Test}} assumptions with {{c2::reality}}.	Culture shock reflection	Principle.Core P2 Travel.CultureShock
+PrincipleCloze	Reduce {{c1::decision}} points {{c2::upfront}}.	Process optimization	Principle.Core P3 Meta.Process
+PrincipleCloze	Leave {{c1::buffer}} space.	Planning & packing	Principle.Core P4 Travel.Packing
+PrincipleCloze	If it’s easily {{c1::replaceable}}, don’t carry it.	Minimalism mindset	Principle.Core P5 Meta.Minimal

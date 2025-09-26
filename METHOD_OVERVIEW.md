@@ -5,7 +5,7 @@
 ## 五个核心要素（记这 5 个就行）
 1. 主题（Topic）：一次聚焦一个小范围（例：旅行打包 / 远程办公日常）。
 2. 功能表达（Functions）：表达“目的”的句块（建议 / 对比 / 原因 / 变化 / 取舍）。
-3. 复用语块（Chunks）：可以直接套用的组合（the downside is..., I tend to..., to avoid..., I used to..., but now...）。
+3. 复用语块（Chunks）：可以直接套用的组合。
 4. 骨架结构（Skeleton）：P→R→E→C→W（Principle→Reason→Example→Contrast→Wrap）。先用 P-R-E。
 5. 循环复用（Loop）：输入→抽 3~5 块→造句→录 30 秒→改 2 句→迁移到另一个小场景。
 
@@ -26,7 +26,7 @@
 ## 什么时候换主题？
 满足：
 - 能不看提纲说 40~60 秒（有例子 + 原因）
-- 说得出 5 个功能表达（e.g. downside / instead / used to / now / to avoid）
+- 说得出 5 个功能表达
 - 能把 1 条原则套到另一个场景（迁移）
 
 ## 文件结构说明
@@ -36,19 +36,9 @@
 - `TASKS_CHECKLIST.md`：照着勾；防止迷路
 - `English_Learning_Summary.md`：完整版（进阶再看）
 
-## 先记住的 12 个高频功能句块
-I tend to...
-The downside is...
-Instead of..., I...
-To avoid..., I...
-I used to..., but now...
-What changed was...
-My rule of thumb is...
-It helps me (do)...
-I weigh A against B.
-If ... happens, I...
-At first..., then...
-Overall, it lets me...
+## 先记住的 xxx 个高频功能句块
+高频功能语块示例1
+高频功能语块示例2
 
 记法：优先说“原则 + 例子 + 结果”，不要只列东西。
 

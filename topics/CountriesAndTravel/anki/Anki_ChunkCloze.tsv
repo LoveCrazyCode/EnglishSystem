@@ -1,0 +1,13 @@
+NoteType	Expression	Cloze	Translation	Tag
+ChunkCloze	A simple rule for packing is to bring fewer but more versatile items.	A simple rule for packing is to bring fewer but more {{c1::versatile}} items.	打包原则：更少但多用途	Travel.Packing Chunk.Core
+ChunkCloze	avoid overpacking	avoid {{c1::overpacking}}	避免过度打包	Travel.Packing Chunk.Core
+ChunkCloze	roll clothes to save space	roll clothes to {{c1::save space}}	卷衣服节省空间	Travel.Packing Chunk.Core
+ChunkCloze	lightweight luggage	lightweight {{c1::luggage}}	轻便行李	Travel.Packing Chunk.Core
+ChunkCloze	challenge my assumptions	challenge my {{c1::assumptions}}	挑战我的假设	Travel.CultureShock Chunk.Core
+ChunkCloze	not as … as I imagined	not as {{c1::...}} as I imagined	没有我想象那么……（结构）	Structure Pattern Chunk.Pattern
+ChunkCloze	rely on mobile payments	rely on {{c1::mobile payments}}	依赖移动支付	Travel.CultureShock Chunk.Core
+ChunkCloze	pay in cash	pay in {{c1::cash}}	用现金付款	Travel.CultureShock Chunk.Core
+ChunkCloze	feel welcomed	feel {{c1::welcomed}}	感到受欢迎	Travel.CultureShock Chunk.Secondary
+ChunkCloze	open my eyes to …	open my eyes to {{c1::...}}	让我开眼界（结构）	Travel.CultureShock Chunk.Pattern
+ChunkCloze	share items with travel partners	share items with {{c1::travel partners}}	与同伴共享物品	Travel.Packing Chunk.Secondary
+ChunkCloze	versatile items	{{c1::versatile}} items	多用途物品	Travel.Packing Chunk.Secondary
