@@ -1,0 +1,67 @@
+# 英语主题学习法（精简版）
+
+目标：用少量高价值步骤，把“不会说”变成“有结构地说”，避免一次性塞太多。
+
+## 五个核心要素（记这 5 个就行）
+1. 主题（Topic）：一次聚焦一个小范围（例：旅行打包 / 远程办公日常）。
+2. 功能表达（Functions）：表达“目的”的句块（建议 / 对比 / 原因 / 变化 / 取舍）。
+3. 复用语块（Chunks）：可以直接套用的组合（the downside is..., I tend to..., to avoid..., I used to..., but now...）。
+4. 骨架结构（Skeleton）：P→R→E→C→W（Principle→Reason→Example→Contrast→Wrap）。先用 P-R-E。
+5. 循环复用（Loop）：输入→抽 3~5 块→造句→录 30 秒→改 2 句→迁移到另一个小场景。
+
+## 每日最小行动（15~25 分钟）
+1. 复习昨天 5 个功能/语块（2 分钟）
+2. 读/看 1 小段与主题相关内容（3~5 分钟）
+3. 抽 3~5 个可用表达写进主题文件（3 分钟）
+4. 用骨架说 30~45 秒（录音）（3 分钟）
+5. 听录音，改 2 句 → 写成升级版本（5 分钟）
+6. 做 1 个“迁移”改写（把其中 1 条原则套到另一个主题）（2 分钟）
+7. 加入 Anki：3 Cloze + 1 Speaking Prompt（5 分钟）
+
+## 每周节奏（简单 3 件事）
+- 回顾：本周累计哪些“可迁移表达”（挑 5 条做一张复盘清单）
+- 补强：挑最卡的 1 个功能（比如对比）多做 5 句
+- 迁移冲刺：同一结构套 3 个不同小主题（例如 weigh A against B）
+
+## 什么时候换主题？
+满足：
+- 能不看提纲说 40~60 秒（有例子 + 原因）
+- 说得出 5 个功能表达（e.g. downside / instead / used to / now / to avoid）
+- 能把 1 条原则套到另一个场景（迁移）
+
+## 文件结构说明
+- `METHOD_OVERVIEW.md`：就是当前这个——只保留最少记忆点
+- `topics/`：每个主题 1 个文件
+- `topics/_template.md`：创建新主题时复制
+- `TASKS_CHECKLIST.md`：照着勾；防止迷路
+- `English_Learning_Summary.md`：完整版（进阶再看）
+
+## 先记住的 12 个高频功能句块
+I tend to...
+The downside is...
+Instead of..., I...
+To avoid..., I...
+I used to..., but now...
+What changed was...
+My rule of thumb is...
+It helps me (do)...
+I weigh A against B.
+If ... happens, I...
+At first..., then...
+Overall, it lets me...
+
+记法：优先说“原则 + 例子 + 结果”，不要只列东西。
+
+## 初期常见错误提醒
+- 只堆单词 → 改：把单词放进“功能表达”句子里
+- 没骨架随便说 → 改：P-R-E（Principle, Reason, Example）
+- 录完不听 → 改：必须改 2 句（写“旧→新”对照）
+- 不迁移 → 改：每天 1 句跨主题应用
+
+## 升级顺序（按阶段）
+阶段 1：功能块 + 骨架
+阶段 2：对比 / 变化 / 取舍
+阶段 3：条件 / 让步（even if / although）
+阶段 4：名词化 / 更精炼（decision fatigue, redundancy）
+
+保持简单：做完每日最小行动就合格，多余时间再扩展。
