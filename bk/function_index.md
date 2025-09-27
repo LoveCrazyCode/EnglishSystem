@@ -1,0 +1,1 @@
+已迁移：请使用 `docs/function_index.md`。
