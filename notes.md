@@ -12,3 +12,5 @@ catch you after xxx
 I would like / I would most like / I like
 
 in person 亲自
+
+During the last National Day holiday / On the last National Day holiday
