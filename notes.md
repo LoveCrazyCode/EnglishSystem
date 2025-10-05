@@ -5,7 +5,7 @@
 升级点：加 mechanism（never touch → 显示浪费）+ 引号突出模式词组。
 
 ## 收集的chunks
-'''
+```
 in advance
 
 catch you after xxx
@@ -19,4 +19,4 @@ During the last National Day holiday / On the last National Day holiday
 A good example that comes to mind. 
 I'm particularly proud of.
 Timekeeping is important to me.
-'''
+```
