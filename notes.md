@@ -7,14 +7,14 @@
 ## 收集的chunks
 ```
 in advance
-
 catch you after xxx
 
 I would like / I would most like / I like
 
 in person 亲自
 
-During the last National Day holiday / On the last National Day holiday
+During the last National Day holiday
+/ On the last National Day holiday
 
 A good example that comes to mind. 
 I'm particularly proud of.
