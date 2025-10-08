@@ -19,4 +19,13 @@ During the last National Day holiday
 A good example that comes to mind. 
 I'm particularly proud of.
 Timekeeping is important to me.
+
+frozen mid-sentence
+Firstly, this job is an ideal match for my skills and experience.
+Secondly,...
+Above all, the reason I want this job is...
+
+What word is Anna struggling to remember that means being very enthusiastic
+and wanting very much to succeed?
+Motivated.
 ```
