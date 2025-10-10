@@ -1,4 +1,5 @@
 # 主题: 工作英语
+> 提示词生成规则: 
 ## 1. 复用语块
 - A good example that comes to mind. 
 - I'm particularly proud of.
