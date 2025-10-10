@@ -36,6 +36,22 @@
 3. Firstly, I validated user pain; secondly, I tested quick fixes; above all, I protected delivery speed.
 
 ### Motivated
+详细解释:
+
+- 含义：形容“有动力/被驱动”，既可描述长线动机（what motivates you）也可指当下的驱动因素（I’m motivated to do…）。
+- 常见结构：
+	- be motivated by + 名词/动名词（被……驱动）
+	- be motivated to + 动词原形（有动力去做……）
+	- keep/stay motivated（保持动力）；intrinsic/extrinsic motivation（内在/外在动机）
+- 语气与场景：面试、绩效复盘、项目启动会常用。避免空话，用“痛点→行动→结果”支撑。
+- 易错点：
+	- motivated ≠ exciting；不要用在“让人兴奋”的语境。
+	- motivation 不等于 emotion；更强调“驱动力/原因”。
+- 模板句：
+	- I’m motivated by X because Y, so I Z（原因→结果→行动）。
+	- What keeps me motivated is seeing A, which leads to B.
+	- To stay motivated, I C（策略），so D（可见产出）。
+
 1. I’m motivated by solving ambiguous problems that unlock leverage for the team.
 2. I stay motivated when progress is visible, so I break work into demoable slices.
 3. I’m motivated to refine this process because every hour saved compounds over the quarter.
